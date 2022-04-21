@@ -6,7 +6,7 @@ keywords = ['logging']
 description = 'Simple logger for command line applications'
 license = 'Apache-2.0'
 version = '0.1.0'
-repository = 'http://localhost/'
+repository = 'https://github.com/kalkin/rust-bkg-cli-log'
 
 [lib]
 name = 'cli_log'
